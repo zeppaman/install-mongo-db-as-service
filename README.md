@@ -20,4 +20,4 @@ Open a powershell shell, then navigate to folder and launch script using followi
 This script is bundled by @zeppaman  and inspired from a stack overflow thread. 
 
 ### Support or Contact
-Having trouble with Script?  [contact me](https://github.com/contact) and we’ll be happy to help you. Feedback like suggestion or error reporting are very appreciated.
+Having trouble with Script?  [contact me](https://github.com/zeppaman/install-mongo-db-as-service/issues) opening a issue and we’ll be happy to help you. Feedback like suggestion or error reporting are very appreciated.
