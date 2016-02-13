@@ -15,6 +15,12 @@ Dont worry it is normal. Powershell doesn' allow you to run script by "double cl
 Open a powershell shell, then navigate to folder and launch script using following command:
 
     PowerShell.exe -ExecutionPolicy Bypass -File .\InstallAsService.ps1
+    
+Or change powershell execution policy to "Unrestricted" by runnning powershell in elevate permission and type:
+
+    Set-ExecutionPolicy Unrestricted
+
+Before follow secondo option, please check any possible security issue.
 
 ### Authors and Contributors
 This script is bundled by @zeppaman  and inspired from a stack overflow thread. 
