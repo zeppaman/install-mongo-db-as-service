@@ -8,7 +8,7 @@ It is not a complicate procedure, but it need some time to understand commands a
 First off all download and install mongo db. You can pick last version and run the wizard as usual.
 Double click on "InstallAsService.ps1" and follow wizard. That's all, folks ;-)
 During wizard will be asked for settings, each of them comes with a default value so you just need to press "next" "next" "next" if you dont'mind to customize installation.
-You can download [InstallAsService.ps1 script here](https://github.com/zeppaman/install-mongo-db-as-service/blob/master/InstallAsService.ps1)
+ [You can download "InstallAsService.ps1" script here](https://github.com/zeppaman/install-mongo-db-as-service/blob/master/InstallAsService.ps1)
 
 
 ### PowerShell says “execution of scripts is disabled on this system.”
