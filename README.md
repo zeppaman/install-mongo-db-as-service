@@ -5,6 +5,7 @@ Mongo db is a great tool, but after you install it is not installed as a service
 It is not a complicate procedure, but it need some time to understand commands and run them. This script allow you to perform an installation just with one click.
 
 ### How to install mongo db as a service
+First off all download and install mongo db. You can pick last version and run the wizard as usual.
 Double click on "InstallAsService.ps1" and follow wizard. That's all, folks ;-)
 During wizard will be asked for settings, each of them comes with a default value so you just need to press "next" "next" "next" if you dont'mind to customize installation.
 
